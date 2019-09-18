@@ -1,0 +1,4 @@
+Event:
+
+Type of event? Reminder, learning process, paper due, exam date, project due, buying ticket such as movie ticket, plant ticket or others.
+Picking someone up at the airport? 
