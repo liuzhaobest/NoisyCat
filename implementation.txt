@@ -1,0 +1,4 @@
+1. What language to use?
+Python or Java or app language? Is it possible to use Python to create an app? I prefer python because I want to practice.
+2. Each event is an object. What should be included in an event? ( see event.txt file)
+3. Should have things like event manager. 
