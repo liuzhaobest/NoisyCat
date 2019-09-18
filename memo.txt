@@ -1,0 +1,27 @@
+2019-9-18
+Procrastination is huge problem in most people's life including students, professionals and everyone else.
+I am going to create an app to deal with this problem by constantly reminding people of important events.
+
+Ideas:
+
+
+Features:
+1. Silent mode? User can set a period of time to keep Noisy Cat silent. Such as during sleep time or rest time or work time?
+Could have a work time timer. Ask the people did they really work that long? Method to trim the time if not. 
+2. Have feature to add friend? Rank the work time and compare with friends. Rank the events done using Noisy Cat.
+3. One enssential part should be counting. Counting the days using Noisy Cat, events done and so on. 
+4. Game type? Raise your cat by working.
+5. Maybe not cat? Not working for everyone. Maybe people can choose? Noisy Animal?
+6. The most fundamental feature should be the notifications. 
+This app should be able to work behind the stage. Sending out a lot of notifications.
+7. The user should be able to create events, drag events. See all past events. Set a finish time on each event. 
+8. Working with some learning apps schedule. 
+9. Notification giving out whenever user start using their phones.
+10. Events and notifications should not go easily. Ask the user to make sure or keep the events for at least 2 or 3 times.
+11. Pay to download or inner pay? Pay to make the user more motivated. 
+12. Start free, working with schools or companies. Find classes the need this app the most, such as sci 90, UNVS 1, HS 1, mental health
+psychology. Work with conselors, work with tutoring centers and mental health center and so on. Work with student dorms? 
+Orientations and so on.
+
+
+
