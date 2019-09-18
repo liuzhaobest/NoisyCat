@@ -1,3 +1,7 @@
+Try a do not touch me game first. Monitor where the use click on the screen and change the picture with no part of cat's body in that area.
+Have different pictures for similar reigion and display them randomly. If not change, stay still or choose another one?
+
+
 2019-9-18
 Procrastination is huge problem in most people's life including students, professionals and everyone else.
 I am going to create an app to deal with this problem by constantly reminding people of important events.
